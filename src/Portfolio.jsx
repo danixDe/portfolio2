@@ -131,7 +131,7 @@ const DATA = {
   projects: [
     { id: "S-01", title: "MintBridge", desc: "A dApp for Solana Devnet featuring Phantom/Solflare wallet integration, token generation, and minting.", tags: ["Web3.js", "Solana", "TypeScript"], link: "https://token-mint-alpha.vercel.app/" },
     { id: "S-02", title: "Blinder", desc: "Exclusive student community platform with domain verification and real-time feed filtering.", tags: ["MongoDB", "Express", "React"], link: "https://gvpblind-pi69.onrender.com/" },
-    { id: "S-03", title: "Note.io", desc: "AI-driven YouTube video summarizer using dynamic transcript extraction. [Under Work]", tags: ["Next.js", "Node", "AI"], link: "https://yt-notes-gamma.vercel.app/" },
+    { id: "S-03", title: "Note.io", desc: "AI-driven YouTube video summarizer using dynamic transcript extraction. [Under Work]", tags: ["Next.js", "Node", "python"], link: "https://yt-notes-gamma.vercel.app/" },
     { id: "S-04", title: "AuraHP", desc: "Blood donation platform connecting medical facilities with donors via real-time notifications.", tags: ["React", "Java Script", "SQL"], link: "https://github.com/danixDe/Aura-web" },
     { id: "S-05", title: "AlumNet", desc: "Connecting students with alumni through an AI-powered directory and interactive chatbot.", tags: ["React", "Node", "AI"], link: "https://github.com/danixDe/sih" },
     { id: "S-06", title: "Finance Tracker", desc: "Expense tracking application with visualization charts and budget comparisons.", tags: ["React", "Tailwind", "Charts"], link: "https://finance-tracker-bg4y.vercel.app/" },
